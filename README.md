@@ -1,12 +1,13 @@
 # word_cloud
 word_cloudというものが面白そうだったので仲良しグループラインのテキストを利用して遊んでみた
+適当な説明でごめんなさい
 
 ## 利用方法
 ```
 python make_word_cloud.py
 ```
-を実行すればテキストファイルから文を読み取り画像を吐き出してくれる
-
+を実行すればテキストファイルから文を読み取り以下のような画像を吐き出してくれる
+![word_cloud](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrsLqxSrxhys6EQ0FDDKPo1q_K4CpPn4Irep8T5rngVZhbVfTk "サンプル")
 ## 自分で変更する必要がある行
 ここに読み込んで欲しいテキストファイルを指定する
 ```
