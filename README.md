@@ -22,6 +22,8 @@ Python 3.7.4
 python make_word_cloud.py
 ```
 を実行すればテキストファイルから文を読み取り以下のような画像を吐き出してくれる
+
+
 ![word_cloud](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrsLqxSrxhys6EQ0FDDKPo1q_K4CpPn4Irep8T5rngVZhbVfTk "サンプル")
 ## 自分で変更する必要がある行
 ```
