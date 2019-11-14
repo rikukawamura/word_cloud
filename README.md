@@ -20,14 +20,13 @@ python make_word_cloud.py
 ![word_cloud](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrsLqxSrxhys6EQ0FDDKPo1q_K4CpPn4Irep8T5rngVZhbVfTk "サンプル")
 ## 自分で変更する必要がある行
 ```
-6行目: text_file = open("kawamura.txt")
+6行目: text_file = open("path/to/file")
 ```
 ここに読み込んで欲しいテキストファイルを指定する
 とりあえずテキストファイルなら何でもオッケー!!!!!
 
 ```
-27行目: stop_words = ['さん','そう','安井','谷口','尊師','準尊師','新尊師','川村','中津'
-             ,'和泉','りょうすけ','よしと','かずき','森田','上田','中川','中谷']
+27行目: stop_words = ['さん','そう','です','ます']
 ```
 stop_wordsでは表示させたくない単語を指定することができる
 
